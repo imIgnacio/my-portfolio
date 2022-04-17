@@ -1,0 +1,35 @@
+section {
+    display: flex;
+    width: 40%;
+    flex-direction: column;
+    height: auto;
+}
+
+.skill-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 50%;
+    margin-left: 5%;
+    margin-bottom: 12px;
+}
+
+.skill {
+    display: inline-block;
+    padding-right: 12px;
+    width: 160px;
+}
+
+.dot {
+    height: 18px;
+    width: 18px;
+    background-color:rgb(11, 133, 195);
+    border-radius: 50%;
+    display: inline-block;
+    margin: 0 2px;
+}
+
+#transparent {
+    background-color: black;
+    opacity: 50%;
+}

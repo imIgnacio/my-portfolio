@@ -8,7 +8,7 @@ function Languages() {
     <h3>📍 Languages</h3>
     <div className='graphs'>
         <PieChart language={'Spanish'} number={100} />
-        <PieChart language={'English'} number={95} />
+        <PieChart language={'English'} number={100} />
         <PieChart language={'French'} number={15} />
     </div>
   </section>
