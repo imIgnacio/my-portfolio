@@ -8,10 +8,23 @@ function Experience() {
         <div className='experiences'>
           <h4>Full-Stack Web Developer | 01.22 - 04.22</h4>
           <h4>Isanto Limitada</h4>
-          <p>Aute reprehenderit ad esse consequat occaecat nulla ullamco mollit nisi sint sunt incididunt pariatur duis. Sunt ad occaecat ipsum proident aliquip id id irure consectetur eiusmod enim sunt incididunt. Excepteur ea sint ut aliquip occaecat nisi nulla sint pariatur ea. Laborum cillum duis commodo ex do. Laboris commodo sit adipisicing laborum ullamco officia incididunt ipsum. Laboris veniam labore irure proident proident dolore nulla ea ipsum excepteur labore tempor veniam fugiat.</p>
+          <p>
+            First attempt to work as Freelancer. This company contacted me to build a web applicaction where fruits and vegetables can be advertised and 
+            sold. I was responsible for building Single Page Application, using MERN Stack. For Front-End ReactJS library was used, in addition to it, 
+            Redux to handle application state. In terms of Server Side, NodeJS was used to build all logic. GraphQL was implemented to handle API queries and
+            Stripe for checkout and payments.
+          </p>
           <h4>Junior Web Developer | 12.20 - 01.22</h4>
           <h4>Irizar Asia Pacific</h4>
-          <p>Aute reprehenderit ad esse consequat occaecat nulla ullamco mollit nisi sint sunt incididunt pariatur duis. Sunt ad occaecat ipsum proident aliquip id id irure consectetur eiusmod enim sunt incididunt. Excepteur ea sint ut aliquip occaecat nisi nulla sint pariatur ea. Laborum cillum duis commodo ex do. Laboris commodo sit adipisicing laborum ullamco officia incididunt ipsum. Laboris veniam labore irure proident proident dolore nulla ea ipsum excepteur labore tempor veniam fugiat.</p>
+          <p>
+            As part of development team, my tasks were mainly on client side. As company was creating and designing new buses and vehicles, I had to create
+            new pages where bus's information, features and special conditions were accesible. View would show bus's make, model, chassis, number of seats and
+            extra color. User would see different perspectives of the bus, where they could zoom in and find all parts the bus has. If user clicks on a part, 
+            it shows part's description and unique code.
+            <br/>
+            Besides Front-End development, I sometimes had to create new routes when new buses became available. Connecting server with database, and handling
+            http requests.
+          </p>
         </div>
       </section>
   )
