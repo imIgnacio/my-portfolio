@@ -9,3 +9,10 @@ header {
   justify-content: space-between;
   align-items: flex-start;
 }
+
+main {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}

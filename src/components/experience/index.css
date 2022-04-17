@@ -1,0 +1,25 @@
+section {
+    width: 40%;
+    height: auto;
+    padding-left: 48px;
+    padding-top: 40px;
+}
+
+.experiences {
+    width: 90%;
+    margin-left: 5%;
+}
+
+h3 {
+    font-size: 24px;
+    font-weight: 700;
+}
+
+h4 {
+    padding: 0;
+    margin: 0;
+}
+
+p {
+    font-size: 12px;
+}

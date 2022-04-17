@@ -38,7 +38,7 @@ function Preview(){
         <h2 style={styles.h2}>Information</h2>
         <div style={styles.pDiv}>
             <div><span style={styles.p2}>Date of birth:</span><span> 12 January 1999</span></div>
-            <div><span style={styles.p2}>Phone:</span><span>+61448712130</span></div>
+            <div><span style={styles.p2}>Phone:</span><span>+61 (0) 448712130</span></div>
             <div><span style={styles.p2}>Github:</span><span><b>imIgnacio</b></span></div>
             <div><span style={styles.p2}>Email:</span><span><b>ignacio.diaz1299@gmail.com</b></span></div>
         </div>

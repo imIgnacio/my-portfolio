@@ -1,0 +1,13 @@
+section {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 40%;
+}
+
+.graphs {
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+    margin-left: 5%;
+}

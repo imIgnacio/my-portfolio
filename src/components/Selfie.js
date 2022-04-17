@@ -9,7 +9,7 @@ function Selfie() {
             flexDirection: 'column',
             width: 'auto',
             alignItems: 'center',
-            marginTop: '80px',
+            marginTop: '92px',
             marginLeft: '160px',
         },
         image: {
