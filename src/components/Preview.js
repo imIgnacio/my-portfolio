@@ -6,7 +6,7 @@ function Preview(){
             flexDirection: 'column',
             width: '30%',
             alignItems: 'center',
-            marginTop: '48px',
+            marginTop: '80px',
             marginRight: '32px',
         },
         h2: {
@@ -22,7 +22,7 @@ function Preview(){
         p2: {
             margin: '0',
             fontSize: '16px',
-            width: '160px',
+            width: '150px',
             float: 'left',
         },
         pDiv: {
@@ -32,8 +32,8 @@ function Preview(){
 
     return <div style={styles.div}>
         <h2 style={styles.h2}>Career Goals</h2>
-        <p style={styles.p}>As Full-Stack Developer. I would like to grow in tech industry, building from new website, to full applications running in the browser.
-            Also, looking for new challenges, experiences and coworkers who can teach me all little pieces I still need to learn.
+        <p style={styles.p}>As Full-Stack Developer. I would like to grow in tech industry, building from new websites, to full applications running in the browser.
+            As well as that, looking for new challenges, experiences and coworkers who can teach me all little pieces I still need to learn.
         </p>
         <h2 style={styles.h2}>Information</h2>
         <div style={styles.pDiv}>
