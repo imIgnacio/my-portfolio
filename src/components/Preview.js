@@ -27,6 +27,10 @@ function Preview(){
         },
         pDiv: {
             width: '400px',
+        },
+        a: {
+            textDecoration: 'none',
+            color: 'inherit',
         }
     }
 
@@ -39,8 +43,8 @@ function Preview(){
         <div style={styles.pDiv}>
             <div><span style={styles.p2}>Date of birth:</span><span> 12 January 1999</span></div>
             <div><span style={styles.p2}>Phone:</span><span>+61 (0) 448712130</span></div>
-            <div><span style={styles.p2}>Github:</span><span><b>imIgnacio</b></span></div>
-            <div><span style={styles.p2}>Email:</span><span><b>ignacio.diaz1299@gmail.com</b></span></div>
+            <div><span style={styles.p2}>Github:</span><a style={styles.a} href="https://github.com/imignacio" target='_blank'><b>imIgnacio</b></a></div>
+            <div><span style={styles.p2}>Email:</span><a style={styles.a} href="mailto:ignacio.diaz1299@gmail.com"><b>ignacio.diaz1299@gmail.com</b></a></div>
         </div>
     </div>
 }
